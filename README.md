@@ -1,4 +1,1 @@
-about-coffeescript
-==================
-
-About coffeescript
+# about coffeescript
